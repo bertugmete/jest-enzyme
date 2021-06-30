@@ -1,10 +1,10 @@
 import './App.css'
-import User from './components/4- FetchMock/user'
+import CustomerList from './components/5- LifeCycleTest/customerList'
 
 function App() {
   return (
     <div className="App">
-      <User />
+      <CustomerList />
     </div>
   )
 }
