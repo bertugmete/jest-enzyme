@@ -1,10 +1,10 @@
 import './App.css'
-import ItemList from './components/2- LengthTest/itemList'
+import Header from './components/3- ShallowVsMount/header'
 
 function App() {
   return (
     <div className="App">
-      <ItemList />
+      <Header />
     </div>
   )
 }
