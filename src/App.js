@@ -1,10 +1,10 @@
 import './App.css'
-import Counter from './components/1- StateTest/counter'
+import ItemList from './components/2- LengthTest/itemList'
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <ItemList />
     </div>
   )
 }
