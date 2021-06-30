@@ -1,10 +1,10 @@
 import './App.css'
-import Header from './components/3- ShallowVsMount/header'
+import User from './components/4- FetchMock/user'
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <User />
     </div>
   )
 }
